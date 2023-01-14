@@ -183,7 +183,7 @@
                 <div class="row align-items-center" style="padding-top: 70px">
                     <div class="col">
                         <h1 style="font-size: 60px; color: white;"> Selamat Datang Di LaporPak </h1>
-                        <p style="color: lightgrey;"> At Lacus vitae nulla sagittis scelerisque nisl. Pallentesque duis curcus vestibulum, facilisi ac, sed faucibus.</p>
+                        
                         <br>
                         <br>
                         <div class="row">
