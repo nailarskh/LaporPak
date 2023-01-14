@@ -114,8 +114,8 @@
 </script>
 <div class="full-height block-confirmation mb-0">
     <div class="container">
-        <a href="https://www.lapor.go.id">
-            <img src="https://www.lapor.go.id/themes/lapor/assets/images/logo-white.png" alt="" class="img-responsive confirmation-brand">
+        <a>
+            <img src="/storage/Logo_Pemalang.png" alt="404" style="width: 80px; top:0%;">
         </a>
         <div class="row">
             <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1">

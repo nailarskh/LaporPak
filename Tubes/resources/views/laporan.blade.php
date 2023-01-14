@@ -143,7 +143,7 @@
 				<span class="icon-bar"></span>
 			</button>
 
-			<a class="navbar-brand" href="https://www.lapor.go.id">
+			<a class="navbar-brand" href="/">
 			</a>
 
 			<a type="button" class="btn navbar-btn navbar-btn-mobile navbar-btn-user pull-right visible-xs" data-toggle="modal" data-target="#exampleModal" style="background-color: transparent; color: rgb(0, 0, 0); margin-top: 28px !important;">
@@ -161,8 +161,7 @@
 			<ul class="nav navbar-nav navbar-left navbar-primary">
 				<li role="presentation" class="  ">
                     <a class="navbar-brand" href="/">
-                        <img src="https://www.lapor.go.id/themes/lapor/assets/images/logo.png" alt="" class="img-responsive hidden-navbar-inverse" style="width: 120px;">
-                        <img src="https://www.lapor.go.id/themes/lapor/assets/images/logo-white.png" alt="" class="img-responsive hidden-navbar-default" style="width: 120px;">
+                    <img src="/storage/Logo_Pemalang.png" alt="404" style="width: 80px; top:0%;">    
                     </a>
                 <li role="presentation" class="  ">
                     <a href="/tentang" >

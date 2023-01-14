@@ -179,9 +179,7 @@
 			<ul class="nav navbar-nav navbar-left navbar-primary">
 				<li role="presentation" class="  ">
                     <a class="navbar-brand" href="/">
-                        <img src="https://www.lapor.go.id/themes/lapor/assets/images/logo.png" alt="" class="img-responsive hidden-navbar-inverse" style="width: 120px;">
-                        <img src="https://www.lapor.go.id/themes/lapor/assets/images/logo-white.png" alt="" class="img-responsive hidden-navbar-default" style="width: 120px;">
-                    </a>
+                                            </a>
                 <li role="presentation" class="  ">
                     <a href="/tentang" >
                         Tentang Kami
